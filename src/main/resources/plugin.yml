@@ -1,0 +1,7 @@
+name: RandomButGenerator
+version: ${project.version}
+main: invertedowl.randombutgenerator.RandomButGenerator
+api-version: 1.18
+
+commands:
+  NewChallenges:
